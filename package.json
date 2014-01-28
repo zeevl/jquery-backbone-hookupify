@@ -1,11 +1,24 @@
 {
   "name": "jquery-backbone-hookupify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Small browserify transform to hook up Backbone with jquery",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Steve Lamb",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zeevl/jquery-backbone-hookupify.git"
+  },
+  "homepage": "https://github.com/zeevl/jquery-backbone-hookupify.git"
+  "keywords": [
+  	"browserify",
+  	"backbone",
+  	"jquery"
+  ]
 }
