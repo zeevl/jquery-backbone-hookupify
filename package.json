@@ -1,0 +1,11 @@
+{
+  "name": "jquery-backbone-hookupify",
+  "version": "0.0.0",
+  "description": "Small browserify transform to hook up Backbone with jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
